@@ -1,0 +1,29 @@
+_repo: The-Setons_35218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, O.
+    alias: Buchan, Anna
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '3741'
+    url: http://www.gutenberg.org/2009/agents/3741
+description: ''
+gutenberg_issued: '2011-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Glasgow (Scotland) -- Social life and customs -- 20th century -- Fiction'
+title: The Setons
+url: http://www.gutenberg.org/ebooks/35218
